@@ -22,14 +22,14 @@ ________________________________________
 📋 Tarefa
 Você deverá:
 1.	Interpretar os dados:
-o	Existe relação entre o tipo de plano e o cancelamento?
-o	Clientes com menos visitas estão mais propensos a cancelar?
-o	Há indícios de churn precoce (ex: usuários que cancelam em menos de 3 meses)?
+- Existe relação entre o tipo de plano e o cancelamento?
+- Clientes com menos visitas estão mais propensos a cancelar?
+  - Há indícios de churn precoce (ex: usuários que cancelam em menos de 3 meses)?
 2.	Gerar insights relevantes:
-o	O que os dados dizem sobre o comportamento dos clientes que cancelam?
-o	Quais hipóteses você propõe para explicar os cancelamentos?
+- O que os dados dizem sobre o comportamento dos clientes que cancelam?
+- Quais hipóteses você propõe para explicar os cancelamentos?
 3.	Sugerir ações concretas:
-o	Com base nos dados, quais ações de produto ou negócio você sugere para reduzir o churn?
+- Com base nos dados, quais ações de produto ou negócio você sugere para reduzir o churn?
 ________________________________________
 📊 Entrega Esperada
 Você pode entregar sua análise em PowerPoint, Google Slides ou PDF com:
