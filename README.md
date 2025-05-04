@@ -18,24 +18,24 @@ id_cliente	data_entrada	plano	visitas_mensais	ultima_interacao	cancelou (1/0)
 ...	...	...	...	...	...
 
 Dicionário de Dados:
-1 - plano: tipo de assinatura (Básico, Padrão, Premium)
-2 - visitas_mensais: média de acessos mensais ao app/site
-3 - ultima_interacao: última data em que o cliente interagiu com o produto
-4 - cancelou: 1 = cancelado / 0 = ativo
+1- plano: tipo de assinatura (Básico, Padrão, Premium)
+2- visitas_mensais: média de acessos mensais ao app/site
+3- ultima_interacao: última data em que o cliente interagiu com o produto
+4- cancelou: 1 = cancelado / 0 = ativo
 
 📋 Tarefa - Você deverá:
 
 1 - Interpretar os dados:
-Existe relação entre o tipo de plano e o cancelamento?
-Clientes com menos visitas estão mais propensos a cancelar?
-Há indícios de churn precoce (ex: usuários que cancelam em menos de 3 meses)?
+1.1- Existe relação entre o tipo de plano e o cancelamento?
+1.2- Clientes com menos visitas estão mais propensos a cancelar?
+1.3- Há indícios de churn precoce (ex: usuários que cancelam em menos de 3 meses)?
 
 2 - Gerar insights relevantes:
-O que os dados dizem sobre o comportamento dos clientes que cancelam?
-Quais hipóteses você propõe para explicar os cancelamentos?
+2.1- O que os dados dizem sobre o comportamento dos clientes que cancelam?
+2.2- Quais hipóteses você propõe para explicar os cancelamentos?
 
 3 - Sugerir ações concretas:
-Com base nos dados, quais ações de produto ou negócio você sugere para reduzir o churn?
+3.1- Com base nos dados, quais ações de produto ou negócio você sugere para reduzir o churn?
 
 📊 Entrega Esperada
 Você pode entregar sua análise em PowerPoint, Google Slides ou PDF com:
