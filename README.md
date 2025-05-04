@@ -44,9 +44,9 @@ ________________________________________
 - Comunicação visual .:. 20%
 ________________________________________
 🛠️ Ferramentas Sugeridas
-•	Excel / Google Sheets
-•	Power BI ou similar
-•	Canva ou Google Slides para apresentação
+- Excel / Google Sheets
+- Power BI ou similar
+- Canva ou Google Slides para apresentação
 ________________________________________
 🧠 Dica
 Você não precisa usar fórmulas avançadas ou modelos preditivos. Foque na interpretação do comportamento dos clientes, tradução dos dados em decisões e clareza na comunicação dos seus achados.
