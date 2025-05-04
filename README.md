@@ -38,11 +38,11 @@ Você pode entregar sua análise em PowerPoint, Google Slides ou PDF com:
 - Plano de ação (1 slide) com propostas de melhoria
 ________________________________________
 ✅ Critérios de Avaliação
-Critério	Peso
-- Clareza na interpretação	30%
-- Relevância dos insights	30%
-- Raciocínio crítico	20%
-- Comunicação visual	20%
+Critério .:. Peso
+- Clareza na interpretação .:. 30%
+- Relevância dos insights	.:. 30%
+- Raciocínio crítico .:. 20%
+- Comunicação visual .:. 20%
 ________________________________________
 🛠️ Ferramentas Sugeridas
 •	Excel / Google Sheets
