@@ -2,6 +2,7 @@
 Desafio para ajudar a formar analistas de produto, PMs e gestores de negócio "Data Driven", capazes de tomar decisões estratégicas baseadas em dados.
 
 🔍 Desafio 1 – Entendendo a Retenção de Clientes
+
 🎯 Objetivo
 Avaliar sua capacidade de interpretar dados, extrair insights relevantes para o negócio e propor ações com base em evidências.
 ________________________________________
