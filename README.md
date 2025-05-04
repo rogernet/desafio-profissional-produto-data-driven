@@ -10,10 +10,8 @@ Você trabalha em uma empresa que oferece um serviço digital por assinatura. O 
 Foi extraído um dataset com informações sobre a base de clientes dos últimos 12 meses.
 ________________________________________
 📦 Base de Dados Fornecida (base_clientes.csv)
-id_cliente	data_entrada	plano	visitas_mensais	ultima_interacao	cancelou (1/0)
-1001	2023-01-10	Básico	5	2023-04-02	1
-1002	2023-03-12	Premium	12	2023-10-25	0
-...	...	...	...	...	...
+![image](https://github.com/user-attachments/assets/fb9ea0ee-e1d2-4741-88a9-f218da0a93eb)
+
 
 Dicionário de Dados:
 •	plano: tipo de assinatura (Básico, Padrão, Premium)
