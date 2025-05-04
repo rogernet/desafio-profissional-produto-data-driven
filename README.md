@@ -19,8 +19,7 @@ Dicionário de Dados:
 - ultima_interacao: última data em que o cliente interagiu com o produto
 - cancelou: 1 = cancelado / 0 = ativo
 ________________________________________
-📋 Tarefa
-Você deverá:
+📋 Tarefa (Você deverá)
 1.	Interpretar os dados:
 - Existe relação entre o tipo de plano e o cancelamento?
 - Clientes com menos visitas estão mais propensos a cancelar?
