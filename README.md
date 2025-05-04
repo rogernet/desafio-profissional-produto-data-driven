@@ -9,7 +9,7 @@ ________________________________________
 🧩 Contexto: Você trabalha em uma empresa que oferece um serviço digital por assinatura. O time de produto notou uma queda na taxa de renovação nos últimos meses, e precisa entender o que está acontecendo.
 Foi extraído um dataset com informações sobre a base de clientes dos últimos 12 meses.
 ________________________________________
-📦 Base de Dados Fornecida (base_clientes.csv)
+📦 Base de Dados Fornecida (base_clientes.csv para download)
 
 ![image](https://github.com/user-attachments/assets/fb9ea0ee-e1d2-4741-88a9-f218da0a93eb)
 
