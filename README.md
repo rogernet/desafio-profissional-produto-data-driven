@@ -23,7 +23,7 @@ Você deverá:
 1.	Interpretar os dados:
 - Existe relação entre o tipo de plano e o cancelamento?
 - Clientes com menos visitas estão mais propensos a cancelar?
-  - Há indícios de churn precoce (ex: usuários que cancelam em menos de 3 meses)?
+- Há indícios de churn precoce (ex: usuários que cancelam em menos de 3 meses)?
 2.	Gerar insights relevantes:
 - O que os dados dizem sobre o comportamento dos clientes que cancelam?
 - Quais hipóteses você propõe para explicar os cancelamentos?
