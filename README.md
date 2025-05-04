@@ -3,11 +3,9 @@ Desafio para ajudar a formar analistas de produto, PMs e gestores de negócio "D
 
 🔍 Desafio 1 – Entendendo a Retenção de Clientes
 
-🎯 Objetivo
-Avaliar sua capacidade de interpretar dados, extrair insights relevantes para o negócio e propor ações com base em evidências.
+🎯 Objetivo: Avaliar sua capacidade de interpretar dados, extrair insights relevantes para o negócio e propor ações com base em evidências.
 ________________________________________
-🧩 Contexto
-Você trabalha em uma empresa que oferece um serviço digital por assinatura. O time de produto notou uma queda na taxa de renovação nos últimos meses, e precisa entender o que está acontecendo.
+🧩 Contexto: Você trabalha em uma empresa que oferece um serviço digital por assinatura. O time de produto notou uma queda na taxa de renovação nos últimos meses, e precisa entender o que está acontecendo.
 Foi extraído um dataset com informações sobre a base de clientes dos últimos 12 meses.
 ________________________________________
 📦 Base de Dados Fornecida (base_clientes.csv)
@@ -32,8 +30,7 @@ Você deverá:
 3.	Sugerir ações concretas:
 - Com base nos dados, quais ações de produto ou negócio você sugere para reduzir o churn?
 ________________________________________
-📊 Entrega Esperada
-Você pode entregar sua análise em PowerPoint, Google Slides ou PDF com:
+📊 Entrega Esperada: Você pode entregar sua análise em PowerPoint, Google Slides ou PDF com:
 - Resumo executivo (1 slide) com os principais insights
 - Análise visual (2–4 slides) com gráficos e tabelas (use Excel, Power BI, Canva ou similar)
 - Plano de ação (1 slide) com propostas de melhoria
@@ -49,6 +46,5 @@ ________________________________________
 - Power BI ou similar
 - Canva ou Google Slides para apresentação
 ________________________________________
-🧠 Dica
-Você não precisa usar fórmulas avançadas ou modelos preditivos. Foque na interpretação do comportamento dos clientes, tradução dos dados em decisões e clareza na comunicação dos seus achados.
+🧠 Dica: Você não precisa usar fórmulas avançadas ou modelos preditivos. Foque na interpretação do comportamento dos clientes, tradução dos dados em decisões e clareza na comunicação dos seus achados.
 
