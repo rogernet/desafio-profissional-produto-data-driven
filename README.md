@@ -1,5 +1,6 @@
 # Programa de Profissionais de Negócio Data-Driven
-Desafio para ajudar a formar analistas de produto, PMs e gestores de negócio "Data Driven", capazes de tomar decisões estratégicas baseadas em dados.
+
+Este é um programa prático, baseado em resolução de desafios reais de negócio com dados, com foco em habilidades de interpretação, pensamento crítico, comunicação de insights e tomada de decisão baseada em dados.  Os desafios aqui presentes tem como propósito ajudar a formar analistas de produto, PMs e gestores de negócio "Data Driven", capazes de tomar decisões estratégicas baseadas em dados.
 
 🔍 Desafio 1 – Entendendo a Retenção de Clientes
 
