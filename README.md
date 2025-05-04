@@ -33,9 +33,9 @@ o	Com base nos dados, quais ações de produto ou negócio você sugere para red
 ________________________________________
 📊 Entrega Esperada
 Você pode entregar sua análise em PowerPoint, Google Slides ou PDF com:
-•	Resumo executivo (1 slide) com os principais insights
-•	Análise visual (2–4 slides) com gráficos e tabelas (use Excel, Power BI, Canva ou similar)
-•	Plano de ação (1 slide) com propostas de melhoria
+- Resumo executivo (1 slide) com os principais insights
+- Análise visual (2–4 slides) com gráficos e tabelas (use Excel, Power BI, Canva ou similar)
+- Plano de ação (1 slide) com propostas de melhoria
 ________________________________________
 ✅ Critérios de Avaliação
 Critério	Peso
