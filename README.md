@@ -39,10 +39,10 @@ Você pode entregar sua análise em PowerPoint, Google Slides ou PDF com:
 ________________________________________
 ✅ Critérios de Avaliação
 Critério	Peso
-Clareza na interpretação	30%
-Relevância dos insights	30%
-Raciocínio crítico	20%
-Comunicação visual	20%
+- Clareza na interpretação	30%
+- Relevância dos insights	30%
+- Raciocínio crítico	20%
+- Comunicação visual	20%
 ________________________________________
 🛠️ Ferramentas Sugeridas
 •	Excel / Google Sheets
