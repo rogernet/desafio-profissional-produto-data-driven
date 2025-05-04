@@ -37,8 +37,7 @@ Você pode entregar sua análise em PowerPoint, Google Slides ou PDF com:
 - Análise visual (2–4 slides) com gráficos e tabelas (use Excel, Power BI, Canva ou similar)
 - Plano de ação (1 slide) com propostas de melhoria
 ________________________________________
-✅ Critérios de Avaliação
-Critério .:. Peso
+✅ Critérios de Avaliação (Critério .:. Peso)
 - Clareza na interpretação .:. 30%
 - Relevância dos insights	.:. 30%
 - Raciocínio crítico .:. 20%
