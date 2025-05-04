@@ -1,5 +1,5 @@
 # Programa de Formação: Profissionais de Negócio Data-Driven
-Desafio para ajudar a formar analistas de produto, PMs e gestores de negócio em "Data Driven", capazes de tomar decisões estratégicas baseadas em dados.
+Desafio para ajudar a formar analistas de produto, PMs e gestores de negócio "Data Driven", capazes de tomar decisões estratégicas baseadas em dados.
 
 🔍 Desafio 1 – Entendendo a Retenção de Clientes
 🎯 Objetivo
@@ -14,6 +14,7 @@ id_cliente	data_entrada	plano	visitas_mensais	ultima_interacao	cancelou (1/0)
 1001	2023-01-10	Básico	5	2023-04-02	1
 1002	2023-03-12	Premium	12	2023-10-25	0
 ...	...	...	...	...	...
+
 Dicionário de Dados:
 •	plano: tipo de assinatura (Básico, Padrão, Premium)
 •	visitas_mensais: média de acessos mensais ao app/site
