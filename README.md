@@ -2,6 +2,7 @@
 Desafio para ajudar a formar analistas de produto, PMs e gestores de negócio em "Data Driven", capazes de tomar decisões estratégicas baseadas em dados.
 
 🔍 Desafio 1 – Entendendo a Retenção de Clientes
+
 🎯 Objetivo
 Avaliar sua capacidade de interpretar dados, extrair insights relevantes para o negócio e propor ações com base em evidências.
 
@@ -17,44 +18,31 @@ id_cliente	data_entrada	plano	visitas_mensais	ultima_interacao	cancelou (1/0)
 ...	...	...	...	...	...
 
 Dicionário de Dados:
-
-plano: tipo de assinatura (Básico, Padrão, Premium)
-
-visitas_mensais: média de acessos mensais ao app/site
-
-ultima_interacao: última data em que o cliente interagiu com o produto
-
-cancelou: 1 = cancelado / 0 = ativo
+1 - plano: tipo de assinatura (Básico, Padrão, Premium)
+2 - visitas_mensais: média de acessos mensais ao app/site
+3 - ultima_interacao: última data em que o cliente interagiu com o produto
+4 - cancelou: 1 = cancelado / 0 = ativo
 
 📋 Tarefa
 Você deverá:
-
-Interpretar os dados:
-
+1 - Interpretar os dados:
 Existe relação entre o tipo de plano e o cancelamento?
-
 Clientes com menos visitas estão mais propensos a cancelar?
-
 Há indícios de churn precoce (ex: usuários que cancelam em menos de 3 meses)?
 
-Gerar insights relevantes:
-
+2 - Gerar insights relevantes:
 O que os dados dizem sobre o comportamento dos clientes que cancelam?
-
 Quais hipóteses você propõe para explicar os cancelamentos?
 
-Sugerir ações concretas:
-
+3 - Sugerir ações concretas:
 Com base nos dados, quais ações de produto ou negócio você sugere para reduzir o churn?
 
 📊 Entrega Esperada
 Você pode entregar sua análise em PowerPoint, Google Slides ou PDF com:
 
-Resumo executivo (1 slide) com os principais insights
-
-Análise visual (2–4 slides) com gráficos e tabelas (use Excel, Power BI, Canva ou similar)
-
-Plano de ação (1 slide) com propostas de melhoria
+- Resumo executivo (1 slide) com os principais insights
+- Análise visual (2–4 slides) com gráficos e tabelas (use Excel, Power BI, Canva ou similar)
+- Plano de ação (1 slide) com propostas de melhoria
 
 ✅ Critérios de Avaliação
 Critério	Peso
@@ -65,9 +53,7 @@ Comunicação visual	20%
 
 🛠️ Ferramentas Sugeridas
 Excel / Google Sheets
-
-Power BI (se souber usar)
-
+Power BI ou similar
 Canva ou Google Slides para apresentação
 
 🧠 Dica
