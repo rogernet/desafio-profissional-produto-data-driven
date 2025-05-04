@@ -14,10 +14,10 @@ ________________________________________
 ![image](https://github.com/user-attachments/assets/fb9ea0ee-e1d2-4741-88a9-f218da0a93eb)
 
 Dicionário de Dados:
-•	plano: tipo de assinatura (Básico, Padrão, Premium)
-•	visitas_mensais: média de acessos mensais ao app/site
-•	ultima_interacao: última data em que o cliente interagiu com o produto
-•	cancelou: 1 = cancelado / 0 = ativo
+- plano: tipo de assinatura (Básico, Padrão, Premium)
+- visitas_mensais: média de acessos mensais ao app/site
+- ultima_interacao: última data em que o cliente interagiu com o produto
+- cancelou: 1 = cancelado / 0 = ativo
 ________________________________________
 📋 Tarefa
 Você deverá:
