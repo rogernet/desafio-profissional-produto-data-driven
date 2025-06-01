@@ -50,4 +50,4 @@ ________________________________________
 ________________________________________
 🧠 Dica: Você não precisa usar fórmulas avançadas ou modelos preditivos. Foque na interpretação do comportamento dos clientes, tradução dos dados em decisões e clareza na comunicação dos seus achados.
 
-Envie sua resposta ao desafio para rogerio.rogernet@gmail.com 
+Envie sua resposta a este desafio para o endereço rogerio.rogernet@gmail.com.
