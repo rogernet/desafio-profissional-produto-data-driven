@@ -2,8 +2,7 @@
 
 Este é um programa prático, baseado em resolução de desafios reais de negócio com dados, com foco em habilidades de interpretação, pensamento crítico, comunicação de insights e tomada de decisão baseada em dados.  Os desafios aqui presentes tem como propósito ajudar a formar analistas de produto, PMs e gestores de negócio "Data Driven".
 
-![image](https://github.com/user-attachments/assets/51c2c513-72cf-4820-a7a4-61c1803dde5b)
-
+![image](https://github.com/user-attachments/assets/b40adaca-26fb-46a6-b5cd-3d562d502b59)
 
 🔍 Desafio 1 – Entendendo a Retenção de Clientes
 
